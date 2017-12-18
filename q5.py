@@ -1,5 +1,5 @@
 def name():
-    full_name=input(' Enter you full name: ')
+    full_name=input('Hi.Enter you full name: ')
     return full_name.split(" ")
 
 temp=name()
